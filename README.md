@@ -1,6 +1,6 @@
 # passValidatorRemote
 
-Password validator script as described below and store it in the main branch of your git repository
+Password validator script
 
 bash script to validate password strength with the following requirements:
 
