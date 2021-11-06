@@ -1,8 +1,10 @@
 # passValidatorRemote
 
-Password validator script
+![Gnu-bash-logo svg](https://user-images.githubusercontent.com/16802411/140619195-c2ffea4e-b5a8-411f-9cfd-123a384429dd.png)
 
-bash script to validate password strength with the following requirements:
+Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. First released in 1989, it has been used as the default login shell for most Linux distributions
+
+Small password validator script
 
 Length – minimum of 10 characters.
 Contain both alphabet and number.
